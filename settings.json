@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Epsteinbot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "EpsteinOFC_",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "pintucabiludo.minecraft.ceu.gg",
+    "port": 22853,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "bibiel1905"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        
       ]
     },
     "chat-log": true,
