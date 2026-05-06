@@ -1,13 +1,13 @@
 {
   "name": "Epsteinbot",
   "bot-account": {
-    "username": "EpsteinOFC_",
+    "username": "Cuzinhuguloso",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "pintucabiludo.minecraft.ceu.gg",
-    "port": 22853,
+    "ip": "resenheira.minecraft.ceu.gg",
+    "port": 25770,
     "version": "1.21.11",
     "try-creative": false
   },
